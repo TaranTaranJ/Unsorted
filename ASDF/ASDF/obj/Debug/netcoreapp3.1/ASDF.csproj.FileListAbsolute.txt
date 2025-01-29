@@ -1,0 +1,13 @@
+C:\Users\Taran\source\repos\ASDF\ASDF\bin\Debug\netcoreapp3.1\ASDF.exe
+C:\Users\Taran\source\repos\ASDF\ASDF\bin\Debug\netcoreapp3.1\ASDF.deps.json
+C:\Users\Taran\source\repos\ASDF\ASDF\bin\Debug\netcoreapp3.1\ASDF.runtimeconfig.json
+C:\Users\Taran\source\repos\ASDF\ASDF\bin\Debug\netcoreapp3.1\ASDF.runtimeconfig.dev.json
+C:\Users\Taran\source\repos\ASDF\ASDF\bin\Debug\netcoreapp3.1\ASDF.dll
+C:\Users\Taran\source\repos\ASDF\ASDF\bin\Debug\netcoreapp3.1\ASDF.pdb
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.csprojAssemblyReference.cache
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.AssemblyInfoInputs.cache
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.AssemblyInfo.cs
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.csproj.CoreCompileInputs.cache
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.dll
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.pdb
+C:\Users\Taran\source\repos\ASDF\ASDF\obj\Debug\netcoreapp3.1\ASDF.genruntimeconfig.cache
