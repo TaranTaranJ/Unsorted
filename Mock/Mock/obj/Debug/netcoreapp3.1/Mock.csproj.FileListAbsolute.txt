@@ -1,0 +1,13 @@
+C:\Users\Taran\source\repos\Mock\Mock\bin\Debug\netcoreapp3.1\Mock.exe
+C:\Users\Taran\source\repos\Mock\Mock\bin\Debug\netcoreapp3.1\Mock.deps.json
+C:\Users\Taran\source\repos\Mock\Mock\bin\Debug\netcoreapp3.1\Mock.runtimeconfig.json
+C:\Users\Taran\source\repos\Mock\Mock\bin\Debug\netcoreapp3.1\Mock.runtimeconfig.dev.json
+C:\Users\Taran\source\repos\Mock\Mock\bin\Debug\netcoreapp3.1\Mock.dll
+C:\Users\Taran\source\repos\Mock\Mock\bin\Debug\netcoreapp3.1\Mock.pdb
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.csprojAssemblyReference.cache
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.AssemblyInfoInputs.cache
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.AssemblyInfo.cs
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.csproj.CoreCompileInputs.cache
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.dll
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.pdb
+C:\Users\Taran\source\repos\Mock\Mock\obj\Debug\netcoreapp3.1\Mock.genruntimeconfig.cache
